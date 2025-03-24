@@ -104,6 +104,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 If you have any questions or need further information about the "Finance Tracker" project, please feel free to contact Mandip Bhattarai on LinkedIn:
 **[Mandip Bhattarai](https://www.linkedin.com/in/mandip-bhattarai/)**
+**[Nishant Bhakar](https://www.linkedin.com/in/nishant-bhakar-b89268300/)**
 
 
 
